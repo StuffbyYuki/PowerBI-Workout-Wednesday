@@ -1,1 +1,1 @@
-![viz](/viz.png)
+![viz](/viz.PNG)
